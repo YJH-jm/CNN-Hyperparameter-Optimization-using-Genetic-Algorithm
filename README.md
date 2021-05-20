@@ -1,5 +1,10 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+# CNN Hyperparameter Optimization uinsg Genetic Algorithm
 
-This repository is built step by step in the tutorial.
+
+
+#### 1. 프로젝트 개요
+
+#### 2. 프로젝트 배경
+#### 3. 프로젝트 과정
+#### 4. 프로젝트 결과
+#### 5. 프로젝트 결론
