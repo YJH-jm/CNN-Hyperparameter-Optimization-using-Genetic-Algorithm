@@ -1,4 +1,4 @@
-# CNN Hyperparameter Optimization uinsg Genetic Algorithm
+# CNN Hyperparameter Optimization using Genetic Algorithm
 
 
 
