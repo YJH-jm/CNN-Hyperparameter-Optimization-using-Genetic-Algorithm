@@ -18,6 +18,8 @@
 #### 4.1. 알고리즘 선택<br>
 
   > - 많은 수의 parameter 동시에 최적화하기 적절한 유전 알고리즘(Genetic Algorithm, GA) 선택
+  
+<!--   > <img src="./image/range_table.PNG"> -->
 
 <br>
 
