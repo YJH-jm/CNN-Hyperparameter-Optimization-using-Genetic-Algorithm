@@ -19,14 +19,14 @@
 
   > - 많은 수의 parameter 동시에 최적화하기 적절한 유전 알고리즘(Genetic Algorithm, GA) 선택
   
-<!--   > <img src="./image/range_table.PNG"> -->
+<!--   > <img src="./image/need.PNG"> -->
 
 <br>
 
 #### 4.2. 데이터 선정 <br>
 
   > - MNIST 데이터 선택
-  
+  > - 획득하기 쉬워서 재구현 가능
 <br>
   
 #### 4.3. 최적화 할 Hyperparameter 선택 <br>
@@ -40,8 +40,36 @@
 
 
 #### 4.4. 초기 세대 생성
-  > <img src="./image/range_table.PNG">
+  > <img src="./image/range_table.PNG" width = 400>
 
   > - 최적화 할 hyperparamete들을 유전자라고 하며, 정해진 숫자의 비트수로 이진화하는 인코딩 과정 필요
   
+  > <img src="./image/binary_gene.png" width = 400>
+
+  > - 다섯 개의 유전자들을 모아 하나의 염색체 구성
+
   > <img src="./image/gene.png" width = 400>
+
+  > - 각 유전자의 설정 범위 안에서 값을 임의로 선택하여 50개의 염색체를 생성하고 이를 초기 모집단이라 함
+
+
+#### 4.5. CNN 모델 설계
+  > <img src="./image/network.png">
+
+
+#### 4.6. 적합도 평가
+  > 분류의 정확도로 적합도를 평가
+
+
+#### 4.7. 부모 염색체 선택
+  > 적합도가 높을 수록 부모 염색체로 선택될 확률이 높음
+
+#### 4.8 자식 염색체 선택
+  > <img src="./image/crossover.png" width = 400>
+  > crossover 과정
+  
+  > <img src="./image/mutation.png" width = 400>
+  > mutation 과정
+
+#### 4.9 반복
+  > 6번부터 8번까지의 과정을 50세대 반복
