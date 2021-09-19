@@ -42,7 +42,7 @@
 #### 4.4. 초기 세대 생성
   > <img src="./image/range_table.PNG" width = 400>
 
-  > - 최적화 할 hyperparamete들을 유전자라고 하며, 정해진 숫자의 비트수로 이진화하는 인코딩 과정 필요
+  > - 최적화 할 각 hyperparamete들을 유전자라고 하며, 유전자들은 정해진 숫자의 비트수로 이진화하는 인코딩 과정 필요
   
   > <img src="./image/binary_gene.png" width = 400>
 
