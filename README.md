@@ -71,7 +71,7 @@
 #### 4.4. 초기 세대 생성
   <br>
 
-  <p align=center><img src="./image/range_table.PNG" width = 60%></p>
+  <p align=center><img src="./image/range_table.png" width = 60%></p>
   
   <br>
   
@@ -144,7 +144,7 @@
 
 ### 5. 결과
 
-<p align=center><img src="./image/result_table.png"width = 70%></p>
+<p align=center><img src="./image/result_table.PNG"width = 70%></p>
 
 <br>
 
@@ -177,6 +177,3 @@
 
 - **layer**
   - convolution layer는 적어도 3개 이상의 layer가 필요
-
-
-- 
