@@ -144,7 +144,7 @@
 
 ### 5. 결과
 
-<p align=center><img src="./image/result.png"width = 70%></p>
+<p align=center><img src="./image/result_table.png"width = 70%></p>
 
 <br>
 
