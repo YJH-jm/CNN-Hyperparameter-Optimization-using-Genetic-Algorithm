@@ -125,7 +125,7 @@
  <br>
 
   - crossover, mutation 확률
-  <p align=center><img src="./image/range_table2.PNG"width = 60%></p>
+  <p align=center><img src="./image/range_table2.png"width = 60%></p>
 
   
 <br>
