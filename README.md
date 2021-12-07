@@ -71,7 +71,7 @@
 #### 4.4. 초기 세대 생성
   <br>
 
-  <p align=center><img src="./image/range_table.png" width = 60%></p>
+  <p align=center><img src="./image/range_table.PNG" width = 60%></p>
   
   <br>
   
