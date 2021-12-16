@@ -1,4 +1,9 @@
 # CNN Hyperparameter Optimization using Genetic Algorithm
+<br>
+
+[Optimization of hyper-parameter for CNN model using genetic algorithm(ICECIE 2019)](https://ieeexplore.ieee.org/document/8974762)
+
+<br>
 
 ### 1. 프로젝트 기간 : 
 - 2019.01 ~ 2019.07
