@@ -1,7 +1,7 @@
 # CNN Hyperparameter Optimization using Genetic Algorithm
 
 ### 1. 프로젝트 기간 : 
-- 2019.01 ~ 2019.09 
+- 2019.01 ~ 2019.07
 
 <br>
 <br>
@@ -51,7 +51,7 @@
     <p align = center> <img src="./image/MNIST.png" width = 60%></p>
     
     <br>
-    - 가장 보편적이고 획득하기 쉽기 때문에 누구나 재구현 가능
+    - 가장 보편적이고 얻기 쉽기 때문에 누구나 재구현 가능
 
 <br>
   
@@ -80,12 +80,12 @@
   
   <br>
   
-  <p align=center><img src="./image/binary_gene.png" width = 60%>
+  <p align=center><img src="./image/binary_gene2.png" width = 60%>
 
   <br>
   
   - 다섯 개의 유전자들을 모아 하나의 염색체 구성
-  - 나의 염색체는 21비트로 구성된
+  - 하나의 염색체는 21비트로 구성
 
   <p align=center><img src="./image/gene.png" width = 60%></p>
   
